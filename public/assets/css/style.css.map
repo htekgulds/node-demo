@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAK;EACJ,SAAS,ECHH,IAAI;EDIV,gBAAgB,ECFJ,OAAO;;ADSpB,CAAE;EACD,MAAM,EAAE,IAAI",
+"sources": ["../style.scss","../../../../../workspace/Web/node-demo/src/scss/includes/variables.scss"],
+"names": [],
+"file": "style.css"
+}
